@@ -1,4 +1,4 @@
-# API-RESTFULL-
+# API-ECOMMERCE
 # E-commerce API  
 
 Uma API desenvolvida em **Python com Flask** para operações essenciais de um e-commerce, incluindo gerenciamento de produtos e fluxo de compra com integração de pagamento.  
